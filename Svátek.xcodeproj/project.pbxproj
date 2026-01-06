@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		7017371E2E6EFE4700A44655 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 7017371D2E6EFE4700A44655 /* README.md */; };
-		70FDBD292E950AF20015C197 /* LICENSE in Sources */ = {isa = PBXBuildFile; fileRef = 70FDBD282E950AEA0015C197 /* LICENSE */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -246,7 +245,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				70FDBD292E950AF20015C197 /* LICENSE in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
